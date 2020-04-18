@@ -1,7 +1,3 @@
-# -*- coding: UTF-8 -*-
-#author: k8gege
-#https://github.com/k8gege/K8tools
-#https://www.cnblogs.com/k8gege
 import sys
 import queue
 from scapy.all import *
